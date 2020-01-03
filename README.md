@@ -1,4 +1,5 @@
 # hello-world
 just hello world
-Test how to merge
-This is the original version.
+=======
+This line should be colored red.
+Test how to merge.
